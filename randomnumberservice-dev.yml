@@ -1,4 +1,5 @@
 server:
-  port: ${PORT:9999}
-            
-lucky-message: Tu numero de la suerte hoy es: 
+  port: ${PORT:9999}    
+     
+message: La configuracion del randomNumberService está funcionando. Puerto 9999. DEV.
+lucky_message: Tu numero de la suerte hoy es: 
