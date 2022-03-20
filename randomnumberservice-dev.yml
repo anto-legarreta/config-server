@@ -1,4 +1,4 @@
 server:
   port: ${PORT:9999}    
      
-lucky-message: tu  numero de la suerte de hoy es: 
+luckymessage: tu  numero de la suerte de hoy es: 
