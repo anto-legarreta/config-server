@@ -1,4 +1,5 @@
 server:
   port: ${PORT:9999}    
 
+message: DEV config port 9999 working
 lucky-message: tu  numero de la suerte de hoy es 
