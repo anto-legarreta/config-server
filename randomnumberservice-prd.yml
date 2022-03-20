@@ -1,4 +1,4 @@
 server:
   port: ${PORT:9998}
             
-message: La configuracion del randomNumberService está funcionando. Puerto 9999. PRD.
+message: La configuracion del randomNumberService está funcionando. Puerto 9998. PRD.
