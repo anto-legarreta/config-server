@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:9999}
+            
+message: La configuracion del randomNumberService está funcionando. Puerto 9999. Sin ambiente.
